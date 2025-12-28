@@ -1,7 +1,7 @@
 metric,value
-probability,57.9
-threshold,16.5
-total_days,19
-retrace_days,11
-avg_time_minutes,41.4
-updated_at,2025-12-28T17:48:55.437845
+probability,71.8
+threshold,19.5
+total_days,39
+retrace_days,28
+avg_time_minutes,70.6
+updated_at,2025-12-28T18:55:00.086809
